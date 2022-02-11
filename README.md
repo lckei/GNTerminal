@@ -10,13 +10,13 @@ fyne 还需要继续优化。
 
 
 ## 图：
-![](images/g1.jpg   =200x)
+![](images/g1.jpg )
 
-![](images/g2.jpg =200x)
+![](images/g2.jpg )
 
-![](images/g3.jpg =200x)
+![](images/g3.jpg )
 
-![](images/g4.jpg =200x)
+![](images/g4.jpg )
 
-![](images/g5.jpg =200x)
+![](images/g5.jpg )
 
